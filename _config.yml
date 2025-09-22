@@ -20,7 +20,7 @@ author: Mohammad
 ###############################################
 
 navbar-links:
-  About Us: "aboutus"
+  About Us: "pages/aboutus"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
