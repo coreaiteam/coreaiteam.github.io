@@ -22,32 +22,32 @@ people:
   pic: 2
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/mohammadmahdi-norouzi/
     - title: github
-      url: #
+      url: https://github.com/mmahdin
 
 - name: محمدجواد نوروزی
   pic: 3
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/mohammadjavadnoroozi/
     - title: github
-      url: #
+      url: https://github.com/MohammadJavadN/
 
 - name: محمدحسین مومنی
   pic: 4
   social:
     - title: linkedin
-      url: #
+      url: https://linkedin.com/in/mohammadhossein-momenihamaneh
     - title: github
-      url: #
+      url: https://github.com/momenihamaneh1381
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: http://twitter.com/jekyllrb
+    url: https://linkedin.com/company/4m-team
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/coreaiteam
 
 # Postal address (add as many lines as necessary)
 # address:
